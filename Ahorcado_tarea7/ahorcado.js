@@ -18,8 +18,8 @@ function buscarCaracter(){
     if (caracter.value == ""){
         return
     };
-
-    var caracterBuscar = caracter,value.toUpperCase();
+    var palabraA = (palabra.value).toUpperCase();
+    var caracterBuscar = caracter.value.toUpperCase();
     var posicion = palabraA.indesxOf(caracterBuscar);
     var esAcierto = false;
 
