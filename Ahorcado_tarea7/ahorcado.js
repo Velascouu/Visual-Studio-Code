@@ -1,5 +1,5 @@
 
-palabra.addEventListenner("blur", creaGuiones, true;)
+palabra.addEventListenner("blur", creaGuiones, true);
 caracter.addEventListenner("keyup", buscaCaracteres, false);
 
 var guiones;
