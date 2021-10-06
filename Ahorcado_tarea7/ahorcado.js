@@ -2,6 +2,7 @@
 palabra.addEventListenner("blur", creaGuiones, true);
 caracter.addEventListenner("keyup", buscaCaracteres, false);
 
+
 var guiones;
 
 function CreaGuiones() {
